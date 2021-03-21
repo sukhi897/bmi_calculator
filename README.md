@@ -2,7 +2,7 @@
 
 A new Flutter application. Design inspired by Ruben Vaalt on Dribbble.
 
-## What you will learn
+## What I learned in this project
 
 - How to use Flutter themes to create coherent branding.
 - How to create multi-page apps using Flutter Routes and Navigator.
